@@ -17,3 +17,7 @@ Change in game settings additional command line arguments : ```-mod Filter -txt`
 Restart the launcher and have fun :)
 
 ![alt text](https://github.com/The-Exorcist/d2r-lootfilter/blob/master/example.png?raw=true)
+
+![alt text](https://github.com/The-Exorcist/d2r-lootfilter/blob/master/game-folder.jpg?raw=true)
+
+![alt text](https://github.com/The-Exorcist/d2r-lootfilter/blob/master/game-settings.jpg?raw=true)
