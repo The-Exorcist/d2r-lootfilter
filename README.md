@@ -8,7 +8,9 @@ In the game folder (e.g.: ```C:\Program Files (x86)\Diablo II Resurrected\```)
 
 create folder ```mods``` (e.g.: ```C:\Program Files (x86)\Diablo II Resurrected\mods```) (Never change the folder name).
 
-Unzip the files into that folder
+Place the ```Filter``` folder in the ```mods``` folder
+
+As a result path: ```C:\Program Files (x86)\Diablo II Resurrected\mods\Filter\Filter.mpq```
 
 Change in game settings additional command line arguments : ```-mod Filter -txt```
 
